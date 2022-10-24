@@ -1,0 +1,58 @@
+[
+  {
+    "num": 1,
+    "name": "John F. Kennedy Library",
+    "lon": -71.0342,
+    "lat": 42.3163,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 2,
+    "name": "The West Wing of the Museum of Fine Arts",
+    "lon": -71.094,
+    "lat": 42.3394,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 3,
+    "name": "Government Center Urban Renewal Plan",
+    "lon": -71.0591,
+    "lat": 42.3605,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 4,
+    "name": "Cecil and Ida Green Building for Earth Sciences",
+    "lon": -71.0893,
+    "lat": 42.3603,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 5,
+    "name": "Ralph Landau Building for Chemical Engineering",
+    "lon": -71.0891,
+    "lat": 42.3609,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 6,
+    "name": "Wiesner Building",
+    "lon": -71.0877,
+    "lat": 42.3608,
+    "sub": "",
+    "des": ""
+  },
+  {
+    "num": 7,
+    "name": "John Hancock Tower",
+    "lon": -87.6229,
+    "lat": 41.8988,
+    "sub": "",
+    "des": ""
+  }
+]
