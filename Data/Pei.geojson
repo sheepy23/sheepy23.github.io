@@ -1,0 +1,96 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0342,42.3163 ]
+    },
+    "properties": {
+    "num":1,
+    "name":"John F. Kennedy Library",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.094,42.3394 ]
+    },
+    "properties": {
+    "num":2,
+    "name":"The West Wing of the Museum of Fine Arts",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0591,42.3605 ]
+    },
+    "properties": {
+    "num":3,
+    "name":"Government Center Urban Renewal Plan",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0893,42.3603 ]
+    },
+    "properties": {
+    "num":4,
+    "name":"Cecil and Ida Green Building for Earth Sciences",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0891,42.3609 ]
+    },
+    "properties": {
+    "num":5,
+    "name":"Ralph Landau Building for Chemical Engineering",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0877,42.3608 ]
+    },
+    "properties": {
+    "num":6,
+    "name":"Wiesner Building",
+    "sub":"",
+    "des":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6229,41.8988 ]
+    },
+    "properties": {
+    "num":7,
+    "name":"John Hancock Tower",
+    "sub":"",
+    "des":""
+    }
+  }
+]
+}
